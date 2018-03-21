@@ -1,5 +1,6 @@
-# ![alfred-weigh](https://cdn.rawgit.com/stefanjudis/alfred-weigh/abd0322e/icon.png)
-# alfred-bundlephobia [![Build Status](https://travis-ci.org/stefanjudis/alfred-weigh.svg?branch=master)](https://travis-ci.org/stefanjudis/alfred-weigh)
+# ![alfred-weigh](https://cdn.rawgit.com/stefanjudis/alfred-weigh/ff2a6143/icon-small.jpg)
+
+# alfred-weigh [![Build Status](https://travis-ci.org/stefanjudis/alfred-weigh.svg?branch=master)](https://travis-ci.org/stefanjudis/alfred-weigh)
 
 >  Alfred workflow to get library sizes with [weigh](https://www.npmjs.com/package/weigh)
 
