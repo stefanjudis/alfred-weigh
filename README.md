@@ -4,6 +4,7 @@
 
 >  Alfred workflow to get library sizes with [weigh](https://www.npmjs.com/package/weigh)
 
+# ![Screenshot of weigh workflow](https://cdn.rawgit.com/stefanjudis/alfred-weigh/b9d174c3/screenshot.jpg)
 
 ## Install
 
