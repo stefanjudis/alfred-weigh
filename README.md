@@ -1,12 +1,13 @@
-# alfred-bundlephobia [![Build Status](https://travis-ci.org/stefanjudis/alfred-bundlephobia.svg?branch=master)](https://travis-ci.org/stefanjudis/alfred-bundlephobia)
+# ![alfred-weigh](https://cdn.rawgit.com/stefanjudis/alfred-weigh/abd0322e/icon.png)
+# alfred-bundlephobia [![Build Status](https://travis-ci.org/stefanjudis/alfred-weigh.svg?branch=master)](https://travis-ci.org/stefanjudis/alfred-weigh)
 
->  Alfred workflow to get library sizes from bundlephobia 
+>  Alfred workflow to get library sizes with [weigh](https://www.npmjs.com/package/weigh)
 
 
 ## Install
 
 ```
-$ npm install --global alfred-bundlephobia
+$ npm install --global alfred-weigh
 ```
 
 *Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
@@ -14,7 +15,7 @@ $ npm install --global alfred-bundlephobia
 
 ## Usage
 
-In Alfred, type `bundlephobia`, <kbd>Enter</kbd>, and your query.
+In Alfred, type `weigh`, <kbd>Enter</kbd>, and the npm package name.
 
 
 ## License
