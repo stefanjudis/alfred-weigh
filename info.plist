@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.stefanjudis.bundlephobia</string>
+	<string>com.stefanjudis.weigh</string>
 	<key>category</key>
 	<string>Tools</string>
 	<key>connections</key>
@@ -25,7 +25,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>bundlephobia</string>
+	<string>weigh</string>
 	<key>objects</key>
 	<array>
 		<dict>
