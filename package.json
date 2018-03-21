@@ -1,0 +1,41 @@
+{
+  "name": "alfred-bundlephobia",
+  "version": "1.0.0",
+  "description": "Alfred workflow to get library sizes from bundlephobia ",
+  "license": "MIT",
+  "repository": "stefanjudis/alfred-bundlephobia",
+  "author": {
+    "name": "stefan judis",
+    "email": "stefanjudis@gmail.com",
+    "url": "https://www.stefanjudis.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava",
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "files": [
+    "index.js",
+    "icon.png",
+    "info.plist"
+  ],
+  "keywords": [
+    "alfred",
+    "workflow",
+    "alfy"
+  ],
+  "dependencies": {
+    "alfy": "^0.6.0",
+    "p-debounce": "^1.0.0",
+    "weigh": "^5.1.0"
+  },
+  "devDependencies": {
+    "alfy-test": "^0.3.0",
+    "ava": "^0.18.0",
+    "proxyquire": "^2.0.1",
+    "xo": "^0.17.0"
+  }
+}
